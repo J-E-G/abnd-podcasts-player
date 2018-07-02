@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Podcasts</string>
+    <string name="now_playing_image_description">now playing image</string>
+    <string name="toast_text_rewind_button">Rewinding...</string>
+    <string name="toast_test_pause_button">Pausing...</string>
+    <string name="toast_text_forward_button">Fast Forwarding...</string>
+    <string name="rewind_button_label">Rewind</string>
+    <string name="pause_button_label">Pause</string>
+    <string name="fast_forward_button_label">Forward</string>
+</resources>

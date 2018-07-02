@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="now_playing_image_height">300dp</dimen>
+    <dimen name="now_playing_layout_padding">15dp</dimen>
+    <dimen name="now_playing_title_text_size">20sp</dimen>
+    <dimen name="now_playing_text_author_text_size">15sp</dimen>
+    <dimen name="now_playing_author_bottom_padding">20dp</dimen>
+    <dimen name="button_right_margin">10dp</dimen>
+</resources>
